@@ -2,11 +2,11 @@
 title: Artist
 email: joy@joythesky.art
 url: https://www.joythesky.art
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+description: "Júlia es una artista excepcionalmente talentosa y apasionada que ha demostrado una habilidad impresionante para crear pinturas y cuadros de gran calidad. Sus obras son hermosas, evocadoras y llenas de expresividad, y muestran una comprensión profunda de los principios fundamentales del arte y la estética. Como estudiante de bellas artes en la universidad, Júlia ha adquirido una amplia gama de habilidades técnicas y conocimientos teóricos que le han permitido perfeccionar aún más su oficio. Su creatividad y su habilidad para experimentar con diferentes técnicas y materiales han llevado a la creación de obras verdaderamente únicas y originales. En resumen, Júlia es una artista con un gran talento y una pasión inquebrantable por el arte. Su capacidad para crear obras de arte que despiertan emociones y transmiten significado es verdaderamente impresionante y seguramente la llevará a tener éxito en su carrera artística."
+keywords: "arte, diseño, art, design, digital art, images, pictures"
 skills: "Fine Arts degree - Graphic Artist - Best Artist"
-meta_author: LastName FirstName
-
+meta_author: Segura Julia
+icon: img/favicon.ico
 # Google webmaster tools
 google_verify:
 
@@ -21,7 +21,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+disqus_shortname: Joy
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -50,7 +50,7 @@ social:
 address:
   - line: Spain
   - line: Spain
-  
+
 # Credits content
 credits: 'Experto en software y hardware de diseño gráfico, que combina habilidades artísticas con técnicas modernas para producir piezas visuales únicas.'
 
