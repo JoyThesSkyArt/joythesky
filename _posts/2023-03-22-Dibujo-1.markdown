@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 9
+date: 2014-03-17
+img: 2023-03-21_13-39-35_UTC.jpg
+alt: image-alt
+project-date: Marzo 2023
+client: Joy
+category: Art Design App
+description: Deberia acabar este dibujo? 🤔😩 #drawing #sketch #art #realisticdrawing #artist #artistsoninstagram #pencildrawing #anatomydrawing #humananatomy #medicine #portrait #pencilportrait #conceptart #conceptartist #graphite #graphitedrawing #realisticportrait #artprocess #drawingsketch #digitalart
+---
