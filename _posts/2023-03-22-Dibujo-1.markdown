@@ -7,5 +7,7 @@ alt: image-alt
 project-date: Marzo 2023
 client: Joy
 category: Art Design App
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: "Trying some random stuff after my sketch practice 🙄 (Definitely, the sketch is much better than the digital one)
+
+#art #drawing #sketch #painting #artist #digitalart #digitaldrawing #digitalpainting #digitalartist #pencildrawing #traditionaldrawing #portrait #portraitdrawing #cuteguy #illustration #artistsoninstagram #skin #pencilsketch"
 ---
