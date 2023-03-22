@@ -32,31 +32,27 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: JoyTheSky
+  location: Spain
   social: Around the Web
-  credits: Credits
+  credits: Joy
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/joythesky
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: instagram
+    url: https://www.instagram.com/joythesky
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
-
+  - line: Spain
+  - line: Spain
+  
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Un artista digital de bellas artes es un creador de imágenes y formas que utiliza herramientas y tecnología digital para producir obras de arte visuales. Este artista es experto en el uso de software y hardware de diseño gráfico, y combina habilidades artísticas tradicionales con técnicas modernas para producir piezas únicas y sorprendentes. Desde la ilustración hasta la animación, el arte digital es un campo en constante evolución y este artista es un innovador que sigue experimentando y explorando nuevas posibilidades en su arte.'
 
 # Build settings
 markdown: kramdown
