@@ -5,6 +5,15 @@
   <meta name="viewport" content="width=device-width">
   <meta name="description" content="{{ site.description }}">
   <meta name="keywords" content="{{ site.keywords }}" />
+
+  <!-- Whatsapp metadata -->
+  <meta property="og:site_name" content="Joythesky Art - Joythesky.art">
+  <meta property="og:title" content="Julia Segura" />
+  <meta property="og:description" content=" Joythesky Art, la mejor página de Arte" />
+  <meta property="og:image" itemprop="image" content=" {{ site.whatsapp_icon }}">
+  <meta property="og:type" content="website" />
+  <meta property="og:updated_time" content="1440432930" />
+
   {% if site.meta_author %}
   <meta name="author" content="{{ site.meta_author }}">{% endif %}
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
